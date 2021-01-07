@@ -1,0 +1,1 @@
+This is just a placeholder file. Saved images from the program will be saved in this folder.
